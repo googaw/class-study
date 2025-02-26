@@ -33,12 +33,21 @@
     <ClCompile Include="stonewt02.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="vect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="randwalk.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="my_tool.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Stonwt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="vect.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

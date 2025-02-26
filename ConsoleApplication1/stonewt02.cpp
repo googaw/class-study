@@ -1,3 +1,7 @@
+#if 0
+
+
+
 #include"Stonwt.h"
 
 int main()
@@ -8,3 +12,5 @@ int main()
 	Stonewt job_3 = 14 * job_2;
 	job_3.show();
 }
+
+#endif // 0

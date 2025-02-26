@@ -131,12 +131,15 @@
     <ClCompile Include="day_02.cpp" />
     <ClCompile Include="myfirst.cpp" />
     <ClCompile Include="my_tool.cpp" />
+    <ClCompile Include="randwalk.cpp" />
     <ClCompile Include="stonewt02.cpp" />
     <ClCompile Include="stonwt01.cpp" />
+    <ClCompile Include="vect.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="my_tool.h" />
     <ClInclude Include="Stonwt.h" />
+    <ClInclude Include="vect.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
